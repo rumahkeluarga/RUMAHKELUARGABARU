@@ -61,7 +61,7 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "grtyudr",
+"UNITY_GAME_ID" : "HGTYU",
 
 "APPLOVIN_BANNER_MAX_ID" : "",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "",
@@ -78,7 +78,7 @@ Bantu kami dengan rating bingtang 5 ya
 Klik tombol rating 
 ",
 "RATE_BUTTON" : "Rate 5 Stars",
-"LATER_BUTTON" : "Nanti",
+"LATER_BUTTON" : "Later",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
 this app is awesome 
